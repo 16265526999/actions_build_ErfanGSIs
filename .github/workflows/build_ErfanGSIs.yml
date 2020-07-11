@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://fsopen.coloros.com/3/oppowww/androidrom/pact00/PACT00_11_OTA_1160_all_qQLqvKSxdfXR.ozip
-  ROM_NAME: laoshu color6
+  ROM_NAME: color6
   TZ: Asia/Shanghai
 
 jobs:
