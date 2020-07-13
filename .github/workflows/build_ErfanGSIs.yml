@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://fsopen.coloros.com/3/oppowww/androidrom/pact00/PACT00_11_OTA_1160_all_qQLqvKSxdfXR.ozip
+  ROM_URL: https://fsopen.coloros.com/3/oppowww/androidrom/paam00/PAAM00_11_OTA_0660_all_DxgkucfrubgQ.ozip
   ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
