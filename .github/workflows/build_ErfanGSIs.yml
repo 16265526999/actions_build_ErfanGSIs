@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://fsopen.coloros.com/3/oppowww/androidrom/pcdm10/PCDM10_11_OTA_0280_all_uj9YCN8Ses4r.ozip
-  ROM_NAME: ColorOS
+  ROM_URL: https://ip1486033978.mobgslb.tbcache.com/Firmware/Flyme/16/8.1.0.0/cn/20200522180445/3c2f4831/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=095e9cbc8ae67104252a98f26bfe84cd04f47ea607f114a6&ali_redirect_ex_tmining_ts=1594810855&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
